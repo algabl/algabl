@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alex. I'm a dev.
+
+
 ### My Skills
 
 #### 🛠️ My Everyday Tools
