@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alex. I'm a dev.
+I'm Alex.
 
+⚛️ 💻 I’m a recently graduated software engineer with a passion for building technology that makes a positive impact. I have hands-on experience with lots of technologies, including React, Vue, Drupal, TypeScript, PHP, Python, and Swift.
+
+🚲 🏙️ As a passionate urbanist and avid cyclist, I believe technology should both drive business success and contribute to sustainable, livable communities. I'm always looking to contribute to projects where innovation has a social impact.
+
+### Current Projects
+[Cuisinons](https://cuisninons.imalexblack.dev) | [Artisearch](https://artisearch.imalexblack.dev) | [BikeNav](https://bikenav.imalexblack.dev)
+
+[All my projects](https://imalexblack.dev/projects)
 
 ### My Skills
 
